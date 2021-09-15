@@ -5,9 +5,13 @@
 AdvanceKillMoney is really advanced and fully configurable KillMoney plugin for PocketMine-MP
 
 <h1>Features</h1>
+
 - [x] Can configure if you want to reduce money from victim or not
+
 - [x] Can add custom percentage that you want to deduct from victim and give it to the killer
+
 - [x] Supports Multiple worlds
+
 - [x] And many more
 
 <h1>Config.yml</h1>
