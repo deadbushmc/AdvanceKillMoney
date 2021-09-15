@@ -1,6 +1,4 @@
 <h1>AdvanceKillMoney</h1>
-![AdvancedKillMoney](https://user-images.githubusercontent.com/66917109/133419216-8ce52292-3b10-453a-9c9b-2478cc31154d.png)
-
 AdvanceKillMoney is really advanced and fully configurable KillMoney plugin for PocketMine-MP
 
 <h1>Features</h1>
@@ -10,6 +8,7 @@ AdvanceKillMoney is really advanced and fully configurable KillMoney plugin for 
 - [x] And many more
 
 <h1>Config.yml</h1>
+
 ```yaml
 # AdvanceKillMoney
 # Plugin By DeadBush
